@@ -1,0 +1,9 @@
+.tool-bar {
+    padding-bottom: 10px;
+    border-bottom: 1px solid rgba(207, 200, 200, 0.616);
+}
+
+.paginator-wrapper {
+    text-align: center;
+    margin: 10px 0;
+}
